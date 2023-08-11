@@ -1,0 +1,1 @@
+/Users/romanovacca/Documents/Coding/Rust/CHATGPT_ASSIGNMENTS/assignment_1_calc_sum_square/target/debug/assignment_1_calc_sum_square: /Users/romanovacca/Documents/Coding/Rust/CHATGPT_ASSIGNMENTS/assignment_1_calc_sum_square/src/main.rs

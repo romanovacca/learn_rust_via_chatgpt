@@ -1,0 +1,1 @@
+/Users/romanovacca/Documents/Coding/Rust/CHATGPT_ASSIGNMENTS/assignment_2_simple_calculator/target/debug/assignment_2_simple_calculator: /Users/romanovacca/Documents/Coding/Rust/CHATGPT_ASSIGNMENTS/assignment_2_simple_calculator/src/main.rs
